@@ -18,7 +18,7 @@ body{
     display: flex;
     align-items: center;
 }
-nav .navbar-toggler{
+nav.navbar-toggler{
     display: flex;
     justify-content:space-between;
     align-items: center;
@@ -40,10 +40,10 @@ nav .navbar-toggler{
 .banner-content{
     position: absolute;
     box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
-    padding: 1.4rem;
-    width: 30rem;
+    padding: 2.4rem;
+    width: 28rem;
     left: 6.5rem;
-    top: 5.5rem;
+    top: 7.5rem;
     background-color: #Fff;
 }
 .i.fa{
